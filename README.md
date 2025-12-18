@@ -9,7 +9,7 @@
 - Unload boussole before doing anything. Not doing so will overwrite your changes to settings.lua if you unload the addon after applying the changes.
 
 - Simply add the content of settings.lua for a given set of maps inside your configuration file inside `<Ashita Folder>/config/addons/boussole/<YourCharacter_XXXXXX>`
-## DO NOT replace your whole settings.lua file content or it won't work. You need to add the entries from the settings.lua file from this repository to your own.
+DO NOT replace your whole settings.lua file content or it won't work. You need to add the entries from the settings.lua file from this repository to your own.
 
 - Then copy the content of custom_maps inside `<Ashita Folder>/config/addons/boussole/custom_maps`
 
@@ -20,3 +20,4 @@
 - Copy the content of custom_maps inside `<Ashita Folder>/config/addons/boussole/custom_maps`
 
 - Reload boussole
+
