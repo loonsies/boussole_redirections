@@ -2,9 +2,9 @@
 
 ### This repository simply aims to provide custom maps for zones not covered by the variety of DATs mods available online.
 
-## How to install
+# How to install
 
-### If the folder for the zone you want to use contains a settings.lua file, it's using maps redirections :
+## If the folder for the zone you want to use contains a settings.lua file, it's using maps redirections :
 
 - Unload boussole before doing anything. Not doing so will overwrite your changes to settings.lua if you unload the addon after applying the changes.
 
@@ -16,7 +16,7 @@
 
 - Reload boussole
 
-### If the folder for the zone you want to use only contains a custom_maps folder, it's using custom map data already included in boussole :
+## If the folder for the zone you want to use only contains a custom_maps folder, it's using custom map data already included in boussole :
 
 - Copy the content of custom_maps inside `<Ashita Folder>/config/addons/boussole/custom_maps`
 
